@@ -2,3 +2,6 @@ A bear is in the forest.
  
 
 Now I have made some changes.
+
+
+Further changes have been made.
