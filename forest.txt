@@ -1,1 +1,4 @@
 A bear is in the forest.
+ 
+
+Now I have made some changes.
